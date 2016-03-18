@@ -1,2 +1,7 @@
 Pluto would be cool to visit
+
 This may be a good thing to do
+
+This is a great idea
+
+#this is with conflicts resolved
